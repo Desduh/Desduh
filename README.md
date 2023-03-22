@@ -2,6 +2,7 @@
   <h1> Olá, me chamo Eduardo! </h1>
   <li>Graduando de Desenvolvimento de Software Multiplataforma - FATEC SJC
   <li>Estudante de pesquisa em Processamento de Imagens - INPE 
+  <li>Veja meu <a href="https://desduh-desduh.vercel.app/menu" target="_blank"> portifólio </a>
 </div> 
  
 <div align="center"> 
